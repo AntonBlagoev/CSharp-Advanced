@@ -21,13 +21,13 @@ End Date: 22.10.2022
 
 [00. Course Introduction](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/00.Course-Introduction)
 
-[01. Stacks and Queues (Lab) - 13.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues)
+[01. Stacks and Queues (Lab) - 13.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues/01.Lab)
 
-[01. Stacks and Queues (Exercise) - 15.09.2022, lecturer Kristian Ivanov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues)
+[01. Stacks and Queues (Exercise) - 15.09.2022, lecturer Kristian Ivanov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues/01.Exercise)
 
-[02. Multidimensional Arrays (Lab) - 16.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/02.Multidimensional-Arrays)
+[02. Multidimensional Arrays (Lab) - 16.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/02.Multidimensional-Arrays/02.Lab)
 
-[02. Multidimensional Arrays (Exercise) - 19.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/02.Multidimensional-Arrays)
+[02. Multidimensional Arrays (Exercise) - 19.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/02.Multidimensional-Arrays/02.Exercise)
 
 [03. Sets and Dictionaries Advanced (Lab) - 20.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/003.CSharp-Advanced-Sets-and-Dictionaries-Advanced)
 
