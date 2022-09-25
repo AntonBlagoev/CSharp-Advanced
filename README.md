@@ -22,36 +22,47 @@ End Date: 22.10.2022
 [00. Course Introduction](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/00.Course-Introduction)
 
 [01. Stacks and Queues (Lab) - 13.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues)
+
 [01. Stacks and Queues (Exercise) - 15.09.2022, lecturer Kristian Ivanov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues)
 
 [02. Multidimensional Arrays (Lab) - 16.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/02.Multidimensional-Arrays)
+
 [02. Multidimensional Arrays (Exercise) - 19.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/02.Multidimensional-Arrays)
 
 [03. Sets and Dictionaries Advanced (Lab) - 20.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/003.CSharp-Advanced-Sets-and-Dictionaries-Advanced)
+
 [03. Sets and Dictionaries Advanced (Exercise) - 21.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/003.CSharp-Advanced-Sets-and-Dictionaries-Advanced)
 
 [04. Streams, Files and Directories (Lab) - 23.09.2022, lecturer Viktor Dakov]()
+
 [04. Streams, Files and Directories (Exercise) - 26.09.2022, lecturer Georgi Inkov]()
 
 [05. Functional Programming (Lab) - 27.09.2022, lecturer Viktor Dakov]()
+
 [05. Functional Programming (Exercise) - 29.09.2022, lecturer Georgi Inkov]()
 
 [06. Defining Classes (Lab) - 30.09.2022, lecturer Viktor Dakov]()
+
 [06. Defining Classes - 03.10.2022, lecturer Georgi Inkov]()
 
 [07. Implementing Linked List (Lab) - 04.10.2022, lecturer Viktor Dakov]()
+
 [07. Implementing Linked List (Exercise) - 06.10.2022, lecturer Georgi Inkov]()
 
 [08. Generics (Lab) - 07.10.2022, lecturer Viktor Dakov]()
+
 [08. StrGenerics (Exercise) - 10.10.2022, lecturer Georgi Inkov]()
 
 [09. Iterators and Comparators (Lab) - 11.10.2022, lecturer Viktor Dakov]()
+
 [09. Iterators and Comparators (Exercise) - 13.10.2022, lecturer Georgi Inkov]()
 
 [10. Exam Preparation (Lab) - 14.10.2022, lecturer Viktor Dakov]()
+
 [10. Exam Preparation (Exercise) - 17.10.2022, lecturer Georgi Inkov]()
 
 [11. Exam Preparation (Lab) - 14.10.2022, lecturer Viktor Dakov]()
+
 [11. Exam Preparation (Exercise) - 17.10.2022, lecturer Georgi Inkov]()
 
 [12. Algorithms Introduction - 18.10.2022, lecturer Viktor Dakov]()
