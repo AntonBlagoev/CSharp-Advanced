@@ -1,0 +1,16 @@
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.exe
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.deps.json
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.runtimeconfig.json
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.runtimeconfig.dev.json
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.dll
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\bin\Debug\net5.0\ref\04. Fast Food.dll
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\bin\Debug\net5.0\04. Fast Food.pdb
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.csproj.AssemblyReference.cache
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.AssemblyInfoInputs.cache
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.AssemblyInfo.cs
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.dll
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\obj\Debug\net5.0\ref\04. Fast Food.dll
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.pdb
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\01.Stacks-and-Queues-Exercise\04. Fast Food\obj\Debug\net5.0\04. Fast Food.genruntimeconfig.cache

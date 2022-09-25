@@ -1,0 +1,16 @@
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.exe
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.deps.json
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.json
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.runtimeconfig.dev.json
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.dll
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\bin\Debug\net5.0\ref\5. Snake Moves.dll
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\bin\Debug\net5.0\5. Snake Moves.pdb
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.AssemblyReference.cache
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfoInputs.cache
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.AssemblyInfo.cs
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.csproj.CoreCompileInputs.cache
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.dll
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\obj\Debug\net5.0\ref\5. Snake Moves.dll
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.pdb
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Excercies\5. Snake Moves\obj\Debug\net5.0\5. Snake Moves.genruntimeconfig.cache

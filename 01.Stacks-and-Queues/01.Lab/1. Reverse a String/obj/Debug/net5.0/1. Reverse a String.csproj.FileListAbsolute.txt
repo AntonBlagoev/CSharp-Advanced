@@ -1,0 +1,16 @@
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.exe
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.deps.json
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.json
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.dev.json
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.dll
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\bin\Debug\net5.0\ref\1. Reverse a String.dll
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.pdb
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.AssemblyReference.cache
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfoInputs.cache
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfo.cs
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.CoreCompileInputs.cache
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.dll
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\obj\Debug\net5.0\ref\1. Reverse a String.dll
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.pdb
+D:\SU\CSharp-Advanced\01.Stacks-and-Queues\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.genruntimeconfig.cache

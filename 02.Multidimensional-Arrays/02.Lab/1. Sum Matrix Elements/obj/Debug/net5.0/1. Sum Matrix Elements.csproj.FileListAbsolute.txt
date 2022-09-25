@@ -1,0 +1,16 @@
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.exe
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.deps.json
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.json
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.runtimeconfig.dev.json
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\bin\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\bin\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.AssemblyInfo.cs
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.dll
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\obj\Debug\net5.0\ref\1. Sum Matrix Elements.dll
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.pdb
+D:\SU\CSharp-Advanced\02.Multidimensional-Arrays\02.Multidimensional-Arrays-Lab\1. Sum Matrix Elements\obj\Debug\net5.0\1. Sum Matrix Elements.genruntimeconfig.cache
