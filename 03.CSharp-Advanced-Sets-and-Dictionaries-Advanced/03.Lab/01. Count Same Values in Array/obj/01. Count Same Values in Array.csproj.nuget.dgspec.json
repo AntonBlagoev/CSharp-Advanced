@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SU\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj": {}
+    "D:\\Dev\\SoftUni\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj": {}
   },
   "projects": {
-    "D:\\SU\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj": {
+    "D:\\Dev\\SoftUni\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SU\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
+        "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
         "projectName": "01. Count Same Values in Array",
-        "projectPath": "D:\\SU\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
+        "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "D:\\SU\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\obj\\",
+        "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\01. Count Same Values in Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

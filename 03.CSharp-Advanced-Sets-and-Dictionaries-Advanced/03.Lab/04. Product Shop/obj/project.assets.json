@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SU\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\04. Product Shop\\04. Product Shop.csproj",
+      "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\04. Product Shop\\04. Product Shop.csproj",
       "projectName": "04. Product Shop",
-      "projectPath": "D:\\SU\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\04. Product Shop\\04. Product Shop.csproj",
+      "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\04. Product Shop\\04. Product Shop.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "D:\\SU\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\04. Product Shop\\obj\\",
+      "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\\03.Lab\\04. Product Shop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

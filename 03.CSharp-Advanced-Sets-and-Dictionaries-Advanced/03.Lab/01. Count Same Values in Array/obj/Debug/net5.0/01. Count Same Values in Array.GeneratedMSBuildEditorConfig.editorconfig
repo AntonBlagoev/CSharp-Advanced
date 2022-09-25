@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = _01._Count_Same_Values_in_Array
-build_property.ProjectDir = D:\SU\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Lab\01. Count Same Values in Array\
+build_property.ProjectDir = D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Lab\01. Count Same Values in Array\
