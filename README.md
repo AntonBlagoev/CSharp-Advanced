@@ -33,43 +33,43 @@ End Date: 22.10.2022
 
 [03. Sets and Dictionaries Advanced (Exercise) - 21.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/003.CSharp-Advanced-Sets-and-Dictionaries-Advanced)
 
-[04. Streams, Files and Directories (Lab) - 23.09.2022, lecturer Viktor Dakov]()
+[04. Streams, Files and Directories (Lab) - 23.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[04. Streams, Files and Directories (Exercise) - 26.09.2022, lecturer Georgi Inkov]()
+[04. Streams, Files and Directories (Exercise) - 26.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[05. Functional Programming (Lab) - 27.09.2022, lecturer Viktor Dakov]()
+[05. Functional Programming (Lab) - 27.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[05. Functional Programming (Exercise) - 29.09.2022, lecturer Georgi Inkov]()
+[05. Functional Programming (Exercise) - 29.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[06. Defining Classes (Lab) - 30.09.2022, lecturer Viktor Dakov]()
+[06. Defining Classes (Lab) - 30.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[06. Defining Classes - 03.10.2022, lecturer Georgi Inkov]()
+[06. Defining Classes - 03.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[07. Implementing Linked List (Lab) - 04.10.2022, lecturer Viktor Dakov]()
+[07. Implementing Linked List (Lab) - 04.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[07. Implementing Linked List (Exercise) - 06.10.2022, lecturer Georgi Inkov]()
+[07. Implementing Linked List (Exercise) - 06.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[08. Generics (Lab) - 07.10.2022, lecturer Viktor Dakov]()
+[08. Generics (Lab) - 07.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[08. StrGenerics (Exercise) - 10.10.2022, lecturer Georgi Inkov]()
+[08. StrGenerics (Exercise) - 10.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[09. Iterators and Comparators (Lab) - 11.10.2022, lecturer Viktor Dakov]()
+[09. Iterators and Comparators (Lab) - 11.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[09. Iterators and Comparators (Exercise) - 13.10.2022, lecturer Georgi Inkov]()
+[09. Iterators and Comparators (Exercise) - 13.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[10. Exam Preparation (Lab) - 14.10.2022, lecturer Viktor Dakov]()
+[10. Exam Preparation (Lab) - 14.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[10. Exam Preparation (Exercise) - 17.10.2022, lecturer Georgi Inkov]()
+[10. Exam Preparation (Exercise) - 17.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[11. Exam Preparation (Lab) - 14.10.2022, lecturer Viktor Dakov]()
+[11. Exam Preparation (Lab) - 14.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[11. Exam Preparation (Exercise) - 17.10.2022, lecturer Georgi Inkov]()
+[11. Exam Preparation (Exercise) - 17.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[12. Algorithms Introduction - 18.10.2022, lecturer Viktor Dakov]()
+[12. Algorithms Introduction - 18.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[13. Regular Exam - 22.10.2022]()
+[13. Regular Exam - 22.10.2022](https://github.com/AntonBlagoev/CSharp-Advanced)
 
-[14. Retake Exam - 14.12.2022]()
+[14. Retake Exam - 14.12.2022](https://github.com/AntonBlagoev/CSharp-Advanced)
 
 
 
