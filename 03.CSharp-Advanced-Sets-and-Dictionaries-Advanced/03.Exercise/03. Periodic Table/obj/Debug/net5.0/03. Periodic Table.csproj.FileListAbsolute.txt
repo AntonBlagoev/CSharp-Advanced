@@ -1,0 +1,16 @@
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.exe
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.dll
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\bin\Debug\net5.0\ref\03. Periodic Table.dll
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\bin\Debug\net5.0\03. Periodic Table.pdb
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.dll
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\obj\Debug\net5.0\ref\03. Periodic Table.dll
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.pdb
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\03. Periodic Table\obj\Debug\net5.0\03. Periodic Table.genruntimeconfig.cache

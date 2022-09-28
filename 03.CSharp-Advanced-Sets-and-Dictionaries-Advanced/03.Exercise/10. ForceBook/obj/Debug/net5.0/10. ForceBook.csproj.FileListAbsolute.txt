@@ -1,0 +1,15 @@
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.exe
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.dll
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\bin\Debug\net5.0\ref\10. ForceBook.dll
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.pdb
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.dll
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\obj\Debug\net5.0\ref\10. ForceBook.dll
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.pdb
+D:\Dev\SoftUni\CSharp-Advanced\03.CSharp-Advanced-Sets-and-Dictionaries-Advanced\03.Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.genruntimeconfig.cache
