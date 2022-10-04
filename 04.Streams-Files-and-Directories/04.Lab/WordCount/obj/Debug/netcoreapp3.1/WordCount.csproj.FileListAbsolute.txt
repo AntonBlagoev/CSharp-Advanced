@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\Skeleton\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache

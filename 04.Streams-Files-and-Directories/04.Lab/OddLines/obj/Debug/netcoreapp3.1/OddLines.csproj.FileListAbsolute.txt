@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\bin\Debug\netcoreapp3.1\OddLines.exe
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\bin\Debug\netcoreapp3.1\OddLines.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\bin\Debug\netcoreapp3.1\OddLines.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\bin\Debug\netcoreapp3.1\OddLines.dll
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\bin\Debug\netcoreapp3.1\OddLines.pdb
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\obj\Debug\netcoreapp3.1\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\obj\Debug\netcoreapp3.1\OddLines.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\obj\Debug\netcoreapp3.1\OddLines.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\obj\Debug\netcoreapp3.1\OddLines.dll
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\obj\Debug\netcoreapp3.1\OddLines.pdb
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Lab\01. Odd Lines_Skeleton\Skeleton-Lab\Skeleton\OddLines\obj\Debug\netcoreapp3.1\OddLines.genruntimeconfig.cache
