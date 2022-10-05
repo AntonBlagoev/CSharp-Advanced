@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\FolderSize\\FolderSize.csproj",
+      "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\FolderSize\\FolderSize.csproj",
       "projectName": "FolderSize",
-      "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\FolderSize\\FolderSize.csproj",
+      "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\FolderSize\\FolderSize.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\FolderSize\\obj\\",
+      "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\FolderSize\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

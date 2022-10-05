@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\OddLines\\OddLines.csproj",
+      "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\OddLines\\OddLines.csproj",
       "projectName": "OddLines",
-      "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\OddLines\\OddLines.csproj",
+      "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\OddLines\\OddLines.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\OddLines\\obj\\",
+      "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\OddLines\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

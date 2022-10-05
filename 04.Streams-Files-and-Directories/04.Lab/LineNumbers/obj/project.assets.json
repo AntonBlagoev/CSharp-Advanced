@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\LineNumbers\\LineNumbers.csproj",
+      "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\LineNumbers\\LineNumbers.csproj",
       "projectName": "LineNumbers",
-      "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\LineNumbers\\LineNumbers.csproj",
+      "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\LineNumbers\\LineNumbers.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\LineNumbers\\obj\\",
+      "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\LineNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

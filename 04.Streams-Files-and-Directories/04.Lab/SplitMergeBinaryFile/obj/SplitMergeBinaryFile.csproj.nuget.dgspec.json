@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj": {}
+    "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj": {
+    "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+        "projectUniqueName": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
         "projectName": "SplitMergeBinaryFile",
-        "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+        "projectPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\Skeleton\\SplitMergeBinaryFile\\obj\\",
+        "outputPath": "D:\\Dev\\SoftUni\\CSharp-Advanced\\04.Streams-Files-and-Directories\\04.Lab\\SplitMergeBinaryFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

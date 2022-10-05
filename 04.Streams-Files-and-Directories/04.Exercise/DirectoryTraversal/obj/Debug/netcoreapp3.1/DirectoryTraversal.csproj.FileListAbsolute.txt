@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+D:\Dev\SoftUni\CSharp-Advanced\04.Streams-Files-and-Directories\04.Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.genruntimeconfig.cache
