@@ -26,33 +26,43 @@ Exercises: Georgi Inkov
 ## Programmе
 
 13.09.2022 - Stacks and Queues (Lab)
+
 15.09.2022 - Stacks and Queues (Exercise)
 
 16.09.2022 - Multidimensional Arrays (Lab)
+
 19.09.2022 - Multidimensional Arrays (Exercise)
 
 20.09.2022 - Sets and Dictionaries Advanced (Lab)
+
 21.09.2022 - Sets and Dictionaries Advanced (Exercise)
 
 23.09.2022 - Streams, Files and Directories (Lab)
+
 26.09.2022 - Streams, Files and Directories (Exercise)
 
 27.09.2022 - Functional Programming (Lab)
+
 29.09.2022 - Functional Programming (Exercise)
 
 30.09.2022 - Defining Classes (Lab) 
+
 03.10.2022 - Defining Classes (Exercise)
 
 04.10.2022 - Implementing Linked List (Lab)
+
 06.10.2022 - Implementing Linked List (Exercise)
 
 07.10.2022 - Generics (Lab)
+
 10.10.2022 - Generics (Exercise)
 
 11.10.2022 - Iterators and Comparators (Lab)
+
 13.10.2022 - Iterators and Comparators (Exercise)
 
 14.10.2022 - Exam Preparation (Lab)
+
 17.10.2022 - Exam Preparation (Exercise)
 
 18.10.2022 - Algorithms Introduction
