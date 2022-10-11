@@ -19,7 +19,7 @@ End Date: 22.10.2022
 
 ## Lectures 
 
-[00. Course Introduction](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/00.Course-Introduction)
+[00. Course Introduction](./tree/main/00.Course-Introduction)
 
 [01. Stacks and Queues (Lab) - 13.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues/01.Lab)
 
