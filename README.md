@@ -11,65 +11,82 @@ Start Date: 13.09.2022
 End Date: 22.10.2022
 
 
-## About course 
+## Lecturers
 
+Lab: Viktor Dakov
+
+Exercises: Georgi Inkov
+
+
+## About course 
 
 Курсът "C# Advanced" надгражда уменията за работата с езика C# и .NET платформата, като в него се разглеждат по-сложни концепции, типични за езика. В курса ще се научите на създаване на линейни структури от данни, решаване на алгоритмични проблеми (problem solving skills), работа със стриймове, файлове и директории, създаване на шаблонни класове. Обръща се внимание на парадигмата функционално програмиране, както и на основния инструмент залагащ на нея - LINQ за обработване на потоци от данни. Средата за разработка, която ще се използва от трейнърския екип е Microsoft Visual Studio 2019, но всеки курсист е свободен да използва инструменти по предпочитание.
 
 
-## Lectures 
+## Programmе
 
-[01. Stacks and Queues (Lab) - 13.09.2022, lecturer Viktor Dakov](01.Stacks-and-Queues/01.Lab)
+13.09.2022 - Stacks and Queues (Lab)
+15.09.2022 - Stacks and Queues (Exercise)
 
-[01. Stacks and Queues (Exercise) - 15.09.2022, lecturer Kristian Ivanov](01.Stacks-and-Queues/01.Exercise)
+16.09.2022 - Multidimensional Arrays (Lab)
+19.09.2022 - Multidimensional Arrays (Exercise)
 
-[02. Multidimensional Arrays (Lab) - 16.09.2022, lecturer Viktor Dakov](02.Multidimensional-Arrays/02.Lab)
+20.09.2022 - Sets and Dictionaries Advanced (Lab)
+21.09.2022 - Sets and Dictionaries Advanced (Exercise)
 
-[02. Multidimensional Arrays (Exercise) - 19.09.2022, lecturer Georgi Inkov](02.Multidimensional-Arrays/02.Exercise)
+23.09.2022 - Streams, Files and Directories (Lab)
+26.09.2022 - Streams, Files and Directories (Exercise)
 
-[03. Sets and Dictionaries Advanced (Lab) - 20.09.2022, lecturer Viktor Dakov](03.Sets-and-Dictionaries-Advanced/03.Lab)
+27.09.2022 - Functional Programming (Lab)
+29.09.2022 - Functional Programming (Exercise)
 
-[03. Sets and Dictionaries Advanced (Exercise) - 21.09.2022, lecturer Georgi Inkov](03.Sets-and-Dictionaries-Advanced/03.Exercise)
+30.09.2022 - Defining Classes (Lab) 
+03.10.2022 - Defining Classes (Exercise)
 
-[04. Streams, Files and Directories (Lab) - 23.09.2022, lecturer Viktor Dakov](04.Streams-Files-and-Directories/04.Lab)
+04.10.2022 - Implementing Linked List (Lab)
+06.10.2022 - Implementing Linked List (Exercise)
 
-[04. Streams, Files and Directories (Exercise) - 26.09.2022, lecturer Georgi Inkov](04.Streams-Files-and-Directories/04.Exercise)
+07.10.2022 - Generics (Lab)
+10.10.2022 - Generics (Exercise)
 
-[05. Functional Programming (Lab) - 27.09.2022, lecturer Viktor Dakov](05.Functional-Programming/05.Lab)
+11.10.2022 - Iterators and Comparators (Lab)
+13.10.2022 - Iterators and Comparators (Exercise)
 
-[05. Functional Programming (Exercise) - 29.09.2022, lecturer Georgi Inkov](05.Functional-Programming/05.Exercise)
+14.10.2022 - Exam Preparation (Lab)
+17.10.2022 - Exam Preparation (Exercise)
 
-[06. Defining Classes (Lab) - 30.09.2022, lecturer Viktor Dakov](06.Defining-Classes/06.Lab)
+18.10.2022 - Algorithms Introduction
 
-[06. Defining Classes - 03.10.2022, lecturer Georgi Inkov](06.Defining-Classes/06.Exercise)
+22.10.2022 - Regular Exam
 
-[07. Implementing Linked List (Lab) - 04.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[07. Implementing Linked List (Exercise) - 06.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[08. Generics (Lab) - 07.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[08. StrGenerics (Exercise) - 10.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[09. Iterators and Comparators (Lab) - 11.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[09. Iterators and Comparators (Exercise) - 13.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[10. Exam Preparation (Lab) - 14.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[10. Exam Preparation (Exercise) - 17.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[11. Exam Preparation (Lab) - 14.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[11. Exam Preparation (Exercise) - 17.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[12. Algorithms Introduction - 18.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[13. Regular Exam - 22.10.2022](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[14. Retake Exam - 14.12.2022](https://github.com/AntonBlagoev/CSharp-Advanced)
+14.12.2022 - Retake Exam
 
 
+## Tasks from course
+
+[01. Stacks and Queues](01.Stacks-and-Queues)
+
+[02. Multidimensional Arrays](02.Multidimensional-Arrays)
+
+[03. Sets and Dictionaries Advanced](03.Sets-and-Dictionaries-Advanced)
+
+[04. Streams, Files and Directories](04.Streams-Files-and-Directories)
+
+[05. Functional Programming](05.Functional-Programming)
+
+[06. Defining Classes](06.Defining-Classes)
+
+[07. Implementing Linked List](07.Implementing-Linked-List)
+
+[08. Generics](8.Generics)
+
+[09. Iterators and Comparators](09.Iterators-and-Comparators)
+
+[10. Exam Preparation](10.Exam-Preparation)
+
+[11. Exam Preparation](11.Exam-Preparation)
+
+[12. Regular Exam](12.Regular-Exam)
 
 
 ## Links 
@@ -89,4 +106,7 @@ End Date: 22.10.2022
 [GitHub: Viktor Dakov](https://github.com/wikss)
 
 [GitHub: Georgi Inkov](https://github.com/GoShow)
+
+[GitHub: Stamo Petkov](https://github.com/stamo)
+
 
