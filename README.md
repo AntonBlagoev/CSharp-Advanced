@@ -19,11 +19,7 @@ End Date: 22.10.2022
 
 ## Lectures 
 
-[00. Course Introduction](00.Course-Introduction)
-
-[01. Stacks and Queues (Lab) - 13.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues/01.Lab)
-
-[01. Stacks and Queues (Exercise) - 15.09.2022, lecturer Kristian Ivanov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues/01.Exercise)
+[01. Stacks and Queues (Exercise) - 15.09.2022, lecturer Kristian Ivanov](01.Stacks-and-Queues/01.Exercise)
 
 [02. Multidimensional Arrays (Lab) - 16.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/02.Multidimensional-Arrays/02.Lab)
 
