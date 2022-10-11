@@ -13,7 +13,7 @@ End Date: 22.10.2022
 
 ## Lecturers
 
-Lab: Viktor Dakov
+Lab: Viktor Dakov / Stamo Petkov
 
 Exercises: Georgi Inkov
 
