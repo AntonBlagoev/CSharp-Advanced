@@ -39,9 +39,9 @@ End Date: 22.10.2022
 
 [05. Functional Programming (Exercise) - 29.09.2022, lecturer Georgi Inkov](05.Functional-Programming/05.Exercise)
 
-[06. Defining Classes (Lab) - 30.09.2022, lecturer Viktor Dakov]()
+[06. Defining Classes (Lab) - 30.09.2022, lecturer Viktor Dakov](06.Defining-Classes/06.Lab)
 
-[06. Defining Classes - 03.10.2022, lecturer Georgi Inkov]()
+[06. Defining Classes - 03.10.2022, lecturer Georgi Inkov](06.Defining-Classes/06.Exercise)
 
 [07. Implementing Linked List (Lab) - 04.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
