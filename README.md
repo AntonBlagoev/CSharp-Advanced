@@ -19,31 +19,29 @@ End Date: 22.10.2022
 
 ## Lectures 
 
-[00. Course Introduction](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/00.Course-Introduction)
+[01. Stacks and Queues (Lab) - 13.09.2022, lecturer Viktor Dakov](01.Stacks-and-Queues/01.Lab)
 
-[01. Stacks and Queues (Lab) - 13.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues/01.Lab)
+[01. Stacks and Queues (Exercise) - 15.09.2022, lecturer Kristian Ivanov](01.Stacks-and-Queues/01.Exercise)
 
-[01. Stacks and Queues (Exercise) - 15.09.2022, lecturer Kristian Ivanov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/01.Stacks-and-Queues/01.Exercise)
+[02. Multidimensional Arrays (Lab) - 16.09.2022, lecturer Viktor Dakov](02.Multidimensional-Arrays/02.Lab)
 
-[02. Multidimensional Arrays (Lab) - 16.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/02.Multidimensional-Arrays/02.Lab)
+[02. Multidimensional Arrays (Exercise) - 19.09.2022, lecturer Georgi Inkov](02.Multidimensional-Arrays/02.Exercise)
 
-[02. Multidimensional Arrays (Exercise) - 19.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/02.Multidimensional-Arrays/02.Exercise)
+[03. Sets and Dictionaries Advanced (Lab) - 20.09.2022, lecturer Viktor Dakov](03.Sets-and-Dictionaries-Advanced/03.Lab)
 
-[03. Sets and Dictionaries Advanced (Lab) - 20.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/003.CSharp-Advanced-Sets-and-Dictionaries-Advanced)
+[03. Sets and Dictionaries Advanced (Exercise) - 21.09.2022, lecturer Georgi Inkov](03.Sets-and-Dictionaries-Advanced/03.Exercise)
 
-[03. Sets and Dictionaries Advanced (Exercise) - 21.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced/tree/main/003.CSharp-Advanced-Sets-and-Dictionaries-Advanced)
+[04. Streams, Files and Directories (Lab) - 23.09.2022, lecturer Viktor Dakov](04.Streams-Files-and-Directories/04.Lab)
 
-[04. Streams, Files and Directories (Lab) - 23.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
+[04. Streams, Files and Directories (Exercise) - 26.09.2022, lecturer Georgi Inkov](04.Streams-Files-and-Directories/04.Exercise)
 
-[04. Streams, Files and Directories (Exercise) - 26.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
+[05. Functional Programming (Lab) - 27.09.2022, lecturer Viktor Dakov](05.Functional-Programming/05.Lab)
 
-[05. Functional Programming (Lab) - 27.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
+[05. Functional Programming (Exercise) - 29.09.2022, lecturer Georgi Inkov](05.Functional-Programming/05.Exercise)
 
-[05. Functional Programming (Exercise) - 29.09.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
+[06. Defining Classes (Lab) - 30.09.2022, lecturer Viktor Dakov]()
 
-[06. Defining Classes (Lab) - 30.09.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
-
-[06. Defining Classes - 03.10.2022, lecturer Georgi Inkov](https://github.com/AntonBlagoev/CSharp-Advanced)
+[06. Defining Classes - 03.10.2022, lecturer Georgi Inkov]()
 
 [07. Implementing Linked List (Lab) - 04.10.2022, lecturer Viktor Dakov](https://github.com/AntonBlagoev/CSharp-Advanced)
 
