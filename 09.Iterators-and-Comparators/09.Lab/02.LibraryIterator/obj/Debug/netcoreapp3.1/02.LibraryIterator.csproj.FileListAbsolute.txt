@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.exe
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.dll
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.pdb
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.dll
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.pdb
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.genruntimeconfig.cache

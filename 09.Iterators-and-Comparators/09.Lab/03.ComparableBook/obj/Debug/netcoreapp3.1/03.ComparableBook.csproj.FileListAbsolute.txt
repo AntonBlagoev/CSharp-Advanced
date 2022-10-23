@@ -1,0 +1,13 @@
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\bin\Debug\netcoreapp3.1\03.ComparableBook.exe
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\bin\Debug\netcoreapp3.1\03.ComparableBook.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\bin\Debug\netcoreapp3.1\03.ComparableBook.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\bin\Debug\netcoreapp3.1\03.ComparableBook.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\bin\Debug\netcoreapp3.1\03.ComparableBook.dll
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\bin\Debug\netcoreapp3.1\03.ComparableBook.pdb
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\obj\Debug\netcoreapp3.1\03.ComparableBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\obj\Debug\netcoreapp3.1\03.ComparableBook.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\obj\Debug\netcoreapp3.1\03.ComparableBook.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\obj\Debug\netcoreapp3.1\03.ComparableBook.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\obj\Debug\netcoreapp3.1\03.ComparableBook.dll
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\obj\Debug\netcoreapp3.1\03.ComparableBook.pdb
+D:\Dev\SoftUni\CSharp-Advanced\09.Iterators-and-Comparators\09.Lab\03.ComparableBook\obj\Debug\netcoreapp3.1\03.ComparableBook.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.exe
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.dll
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.pdb
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.dll
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.pdb
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.genruntimeconfig.cache

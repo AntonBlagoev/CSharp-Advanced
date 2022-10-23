@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.exe
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Lab\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.genruntimeconfig.cache

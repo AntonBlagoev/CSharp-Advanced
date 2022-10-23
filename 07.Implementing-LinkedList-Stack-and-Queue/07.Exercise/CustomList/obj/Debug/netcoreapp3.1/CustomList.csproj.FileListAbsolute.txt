@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\bin\Debug\netcoreapp3.1\CustomList.exe
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\bin\Debug\netcoreapp3.1\CustomList.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\bin\Debug\netcoreapp3.1\CustomList.dll
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\bin\Debug\netcoreapp3.1\CustomList.pdb
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\obj\Debug\netcoreapp3.1\CustomList.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\obj\Debug\netcoreapp3.1\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\obj\Debug\netcoreapp3.1\CustomList.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\obj\Debug\netcoreapp3.1\CustomList.dll
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\obj\Debug\netcoreapp3.1\CustomList.pdb
+D:\Dev\SoftUni\CSharp-Advanced\07.Implementing-LinkedList-Stack-and-Queue\07.Exercise\CustomList\obj\Debug\netcoreapp3.1\CustomList.genruntimeconfig.cache
