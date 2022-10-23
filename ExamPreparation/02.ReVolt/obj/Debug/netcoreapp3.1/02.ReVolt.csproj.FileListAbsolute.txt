@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\bin\Debug\netcoreapp3.1\02.ReVolt.exe
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\bin\Debug\netcoreapp3.1\02.ReVolt.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\bin\Debug\netcoreapp3.1\02.ReVolt.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\bin\Debug\netcoreapp3.1\02.ReVolt.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\bin\Debug\netcoreapp3.1\02.ReVolt.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\bin\Debug\netcoreapp3.1\02.ReVolt.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\obj\Debug\netcoreapp3.1\02.ReVolt.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\obj\Debug\netcoreapp3.1\02.ReVolt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\obj\Debug\netcoreapp3.1\02.ReVolt.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\obj\Debug\netcoreapp3.1\02.ReVolt.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\obj\Debug\netcoreapp3.1\02.ReVolt.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\obj\Debug\netcoreapp3.1\02.ReVolt.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\obj\Debug\netcoreapp3.1\02.ReVolt.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.ReVolt\obj\Debug\netcoreapp3.1\02.ReVolt.genruntimeconfig.cache

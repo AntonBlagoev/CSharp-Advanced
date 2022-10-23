@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.exe
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.dll
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\bin\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.dll
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+D:\Dev\SoftUni\CSharp-Advanced\Exam\03. Computer Architecture_Skeleton\obj\Debug\netcoreapp3.1\ComputerArchitecture.genruntimeconfig.cache

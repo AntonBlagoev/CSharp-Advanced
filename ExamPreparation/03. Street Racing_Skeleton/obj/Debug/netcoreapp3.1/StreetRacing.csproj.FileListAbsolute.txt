@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\bin\Debug\netcoreapp3.1\StreetRacing.exe
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\bin\Debug\netcoreapp3.1\StreetRacing.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\bin\Debug\netcoreapp3.1\StreetRacing.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\bin\Debug\netcoreapp3.1\StreetRacing.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\obj\Debug\netcoreapp3.1\StreetRacing.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\obj\Debug\netcoreapp3.1\StreetRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\obj\Debug\netcoreapp3.1\StreetRacing.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\obj\Debug\netcoreapp3.1\StreetRacing.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\obj\Debug\netcoreapp3.1\StreetRacing.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Street Racing_Skeleton\obj\Debug\netcoreapp3.1\StreetRacing.genruntimeconfig.cache

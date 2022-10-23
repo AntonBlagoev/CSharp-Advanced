@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.exe
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02.TheBattleOfTheFiveArmies.genruntimeconfig.cache

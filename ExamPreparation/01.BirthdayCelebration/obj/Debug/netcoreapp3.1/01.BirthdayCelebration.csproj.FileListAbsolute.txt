@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.exe
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\bin\Debug\netcoreapp3.1\01.BirthdayCelebration.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BirthdayCelebration\obj\Debug\netcoreapp3.1\01.BirthdayCelebration.genruntimeconfig.cache

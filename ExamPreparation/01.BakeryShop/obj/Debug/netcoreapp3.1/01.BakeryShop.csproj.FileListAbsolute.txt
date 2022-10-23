@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.exe
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.genruntimeconfig.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.csproj.AssemblyReference.cache

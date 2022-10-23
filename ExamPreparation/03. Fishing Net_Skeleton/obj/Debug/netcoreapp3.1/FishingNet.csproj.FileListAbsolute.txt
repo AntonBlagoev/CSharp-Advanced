@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.exe
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Fishing Net_Skeleton\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache

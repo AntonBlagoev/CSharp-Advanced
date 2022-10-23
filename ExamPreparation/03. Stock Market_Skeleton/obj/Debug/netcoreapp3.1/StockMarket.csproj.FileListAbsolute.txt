@@ -1,0 +1,14 @@
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\bin\Debug\netcoreapp3.1\StockMarket.exe
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\bin\Debug\netcoreapp3.1\StockMarket.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\bin\Debug\netcoreapp3.1\StockMarket.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\obj\Debug\netcoreapp3.1\StockMarket.dll
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\obj\Debug\netcoreapp3.1\StockMarket.pdb
+D:\Dev\SoftUni\CSharp-Advanced\ExamPreparation\03. Stock Market_Skeleton\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache
